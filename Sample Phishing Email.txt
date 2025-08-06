@@ -1,0 +1,21 @@
+From: PayPal Support <support@paypall-service.com>
+To: user@example.com
+Subject: Urgent Action Required – Account Suspended
+
+Dear Customer,
+
+We have noticed suspicious activity in your PayPal account. To protect your account from unauthorized access, we have temporarily limited your account access.
+
+To restore your account, please verify your information by clicking the secure link below:
+
+https://www.paypal.com.account-verify-login.securepage.co/restore
+
+If you do not verify your account within 24 hours, your PayPal account will be permanently closed.
+
+We apologize for the inconvenience and appreciate your prompt attention to this matter.
+
+Sincerely,  
+PayPal Security Team
+
+[Attachment: restore_account_form.zip]
+
